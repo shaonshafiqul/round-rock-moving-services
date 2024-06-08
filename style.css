@@ -139,3 +139,59 @@ body{
     color: #4D6BB9
     
   }
+.about-us{
+  margin-top: 160px
+}
+  .about-us h2{
+    color: #4D6BB9;
+    font-size: 50px;
+    line-height: 0;
+  }
+  .about-us p{
+    color: #333;
+    font-size: 12px;
+    padding-bottom: 0px;
+    font-weight: 400;
+    width: 34%;
+  }
+  .about-us img{
+    width: 100%;
+    margin-top: -145px;
+}
+  .family-area{
+    width: 60%;
+    background-color: #fff;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px #00000033;
+    margin: auto;
+    position: relative;
+    top: -120px;
+  }
+  .family-details-area{
+    padding: 30px;
+    text-align: center;
+  }
+  .family-text-area h2{
+    
+    color: #4D6BB9;
+    font-size: 50px;
+    line-height: 0;
+  }
+  .family-text-area p{
+    color: #333;
+    font-size: 12px;
+    padding-bottom: 0px;
+    font-weight: 400;
+    width: 100%;
+  }
+  .button3{
+    text-decoration: none;
+    padding: 10px 30px 20px;
+    position: relative;
+    bottom: -13px;
+    border-radius: 30px 30px 0px 0px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #4D6BB9;
+  }
